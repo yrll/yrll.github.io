@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/liberapay/receives/verfasor.svg?logo=liberapay">
+<!-- <img src="https://img.shields.io/liberapay/receives/verfasor.svg?logo=liberapay">
 
 **NOTE: The netlify demo is broken as I don't use the service anymore. The repo should work OOB nonetheless. Please create an issue if it isn't working as intended.**
 
@@ -177,3 +177,4 @@ The color schemes and fonts can also be customized through scss, by editing the 
 
 - Base theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
 - Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com 
+ -->
