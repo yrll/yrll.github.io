@@ -5,7 +5,7 @@
 - project: Scalpel
   role: A configuration error diagnoser
   duration: 2021 &mdash; Present
-  # url: "#"
+  url: "https://conferences.sigcomm.org/events/apnet2023/papers/sec2-diagnose.pdf"
   description: Diagnosing Distributed Routing Configurations using Sequential Program Analysis. In APNet'23. June 29-30, 2023. Rulan Yang, Xing Fang, Lizhao You, Qiao Xiang, Hanyang Shao, Gao Han, Ziyi Wang, Jiwu Shu, Linghe Kong.
 
 # # Springfield Community Outreach Group
