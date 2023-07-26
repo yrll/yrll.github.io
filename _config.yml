@@ -23,7 +23,7 @@ resume_contact_address:         "Xiangan South Road, Xiamen, Fujian, China"
 resume_header_contact_info:     "Xiangan South Road, Xiamen, Fujian, China • (+86) 18786082829 • rulan.yang.xmu@outlook.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, I’m Rulan Yang, a first-year Ph.D. student in the Department of Computer Science, Xiamen University, advised by Professor Qiao Xiang. Before that, I obtained the Bachelor's degree from Xiamen University. My research interests include network verification and formal method, with current research focusing on network configuration diagnosis..</p>"
+resume_header_intro: "<p>Hi, I’m Rulan Yang, a first-year Ph.D. student in the Department of Computer Science, Xiamen University, advised by Professor Qiao Xiang. Before that, I obtained my Bachelor's degree from Xiamen University. My research interests include network verification and formal method, with current research focusing on network configuration diagnosis.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
