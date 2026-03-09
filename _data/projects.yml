@@ -3,14 +3,14 @@
 
 # jazznotes.io
 - project: Scalpel
-  role: A configuration error diagnoser
-  duration: 2021 &mdash; Present
+  # role: A configuration error diagnoser
+  # duration: 2021 &mdash; Present
   url: "https://conferences.sigcomm.org/events/apnet2023/papers/sec2-diagnose.pdf"
   description: Diagnosing Distributed Routing Configurations using Sequential Program Analysis. In APNet'23. June 29-30, 2023. Rulan Yang, Xing Fang, Lizhao You, Qiao Xiang, Hanyang Shao, Gao Han, Ziyi Wang, Jiwu Shu, Linghe Kong.
 
-# # Springfield Community Outreach Group
-# - project: Springfield Community Outreach Group
-#   role: Co-Founder & Organizer
-#   duration: 2007 &mdash; Present
-#   # url: "#"
-#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Springfield Community Outreach Group
+- project: S²Sim
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  url: "_files//nsdi26spring-final155.pdf"
+  description: Diagnosing and Repairing Distributed Routing Configurations Using Selective Symbolic Simulation. In NSDI'26. May 4-6, 2026. Rulan Yang, Gao Han, Hanyang Shao, Xiaoqiang Zheng, Xing Fang, Ziyi Wang, Lizhao You, Ruiting Zhou, Linghe Kong, Ennan Zhai, Qiao Xiang, Jiwu Shu
