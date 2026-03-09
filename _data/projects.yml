@@ -12,5 +12,5 @@
 - project: S²Sim
   # role: Co-Founder & Organizer
   # duration: 2007 &mdash; Present
-  url: "_files//nsdi26spring-final155.pdf"
+  url: "files//nsdi26spring-final155.pdf"
   description: Diagnosing and Repairing Distributed Routing Configurations Using Selective Symbolic Simulation. In NSDI'26. May 4-6, 2026. Rulan Yang, Gao Han, Hanyang Shao, Xiaoqiang Zheng, Xing Fang, Ziyi Wang, Lizhao You, Ruiting Zhou, Linghe Kong, Ennan Zhai, Qiao Xiang, Jiwu Shu
